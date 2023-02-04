@@ -1,0 +1,16 @@
+body{
+ margin: 0px;
+ background: url("assets/background.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position-x: center ;
+}
+
+.container{
+ display: flex;
+ flex-direction: column;
+ position: absolute;
+ top: 50vh;
+ left: 50vw;
+ align-items: center;
+}
